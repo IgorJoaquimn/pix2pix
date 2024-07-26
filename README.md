@@ -22,12 +22,12 @@ O discriminador é baseado na PatchGAN, onde pequenas regiões da imagem são di
 </p>
 
 ---
+Como podemos ver no gráfico abaixo, treinando por mais tempo, é possível melhorar ainda mais a geração de imagens:
 
 <p align="center">
   <img src="imgs/rmse.png" alt="Output Image" title="Title"/>
 </p>
 
-Como podemos ver no gráfico acima, treinando por mais tempo, é possível melhorar ainda mais a geração de imagens.
 
 ## Agradecimentos
 
