@@ -21,6 +21,15 @@ O discriminador é baseado na PatchGAN, onde pequenas regiões da imagem são di
   <img src="imgs/output.png" alt="Output Image" title="Title"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="imgs/rmse.png" alt="Output Image" title="Title"/>
+</p>
+
+Como podemos ver no gráfico acima, treinando por mais tempo, é possível melhorar ainda mais a geração de imagens.
+
 ## Agradecimentos
 
-Dataset retirado de https://github.com/Sxela/face2comics
+Dataset retirado de: https://github.com/Sxela/face2comics.
+Teoria aprendida em: https://deep-ufmg.github.io/
