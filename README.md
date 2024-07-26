@@ -3,7 +3,7 @@
 Nesse repositório, é explorado como GANs podem ser usadas para resolver a tarefa de tradução imagem para imagem. Em particular, temos o objetivo de transferir estilos entre imagens.
 
 <p align="center">
-  <img src="input.png" alt="Input Image" title="Title"/>
+  <img src="imgs/input.png" alt="Input Image" title="Title"/>
 </p>
 
 ## Implementação
@@ -18,7 +18,7 @@ O discriminador é baseado na PatchGAN, onde pequenas regiões da imagem são di
 ## Resultados
 
 <p align="center">
-  <img src="output.png" alt="Output Image" title="Title"/>
+  <img src="imgs/output.png" alt="Output Image" title="Title"/>
 </p>
 
 ## Agradecimentos
